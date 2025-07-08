@@ -41,7 +41,6 @@ body:
     id: provider
     attributes:
       label: Cloud Provider
-      description: ''
       options:
         - AWS
         - GCP
